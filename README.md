@@ -12,7 +12,7 @@ Para realizar el correcto funcionamiento se necesitan las librerias PySide6 y op
   pip install PySide6
   pip install openpyxl
 ```
-o si tienes el archivo **requirements.txt** puedes instalar todas las dependencias con el siguiente comando:
+o puedes instalar todas las depenendencias con el archivo **requirements.txt** con el siguiente comando:
 
 ```bash
   pip install -r requirements.txt
